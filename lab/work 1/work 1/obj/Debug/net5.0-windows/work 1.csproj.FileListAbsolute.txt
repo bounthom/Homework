@@ -1,0 +1,19 @@
+C:\years 3\computer vision\lab\work 1\work 1\bin\Debug\net5.0-windows\work 1.exe
+C:\years 3\computer vision\lab\work 1\work 1\bin\Debug\net5.0-windows\work 1.deps.json
+C:\years 3\computer vision\lab\work 1\work 1\bin\Debug\net5.0-windows\work 1.runtimeconfig.json
+C:\years 3\computer vision\lab\work 1\work 1\bin\Debug\net5.0-windows\work 1.runtimeconfig.dev.json
+C:\years 3\computer vision\lab\work 1\work 1\bin\Debug\net5.0-windows\work 1.dll
+C:\years 3\computer vision\lab\work 1\work 1\bin\Debug\net5.0-windows\ref\work 1.dll
+C:\years 3\computer vision\lab\work 1\work 1\bin\Debug\net5.0-windows\work 1.pdb
+C:\years 3\computer vision\lab\work 1\work 1\obj\Debug\net5.0-windows\work_1.Form1.resources
+C:\years 3\computer vision\lab\work 1\work 1\obj\Debug\net5.0-windows\work_1.Properties.Resources.resources
+C:\years 3\computer vision\lab\work 1\work 1\obj\Debug\net5.0-windows\work 1.csproj.GenerateResource.cache
+C:\years 3\computer vision\lab\work 1\work 1\obj\Debug\net5.0-windows\work 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\years 3\computer vision\lab\work 1\work 1\obj\Debug\net5.0-windows\work 1.AssemblyInfoInputs.cache
+C:\years 3\computer vision\lab\work 1\work 1\obj\Debug\net5.0-windows\work 1.AssemblyInfo.cs
+C:\years 3\computer vision\lab\work 1\work 1\obj\Debug\net5.0-windows\work 1.csproj.CoreCompileInputs.cache
+C:\years 3\computer vision\lab\work 1\work 1\obj\Debug\net5.0-windows\work 1.dll
+C:\years 3\computer vision\lab\work 1\work 1\obj\Debug\net5.0-windows\ref\work 1.dll
+C:\years 3\computer vision\lab\work 1\work 1\obj\Debug\net5.0-windows\work 1.pdb
+C:\years 3\computer vision\lab\work 1\work 1\obj\Debug\net5.0-windows\work 1.genruntimeconfig.cache
+C:\years 3\computer vision\lab\work 1\work 1\obj\Debug\net5.0-windows\work 1.csprojAssemblyReference.cache
